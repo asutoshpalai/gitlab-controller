@@ -1,6 +1,6 @@
 # gitlab-controller
 This has been created to automate the task of handling ssh keys for gitlab by admin
-#### Note:This repo is no longer maintained. Ih has been shifted to [sdslabs/gitlab-controller](https://github.com/sdslabs/gitlab-controller)
+##### Note:This repo is no longer maintained. It has been shifted to [sdslabs/gitlab-controller](https://github.com/sdslabs/gitlab-controller)
 
 ##Requirement
 requests
